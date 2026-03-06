@@ -1,0 +1,11 @@
+{
+  "appName": "NotebookLM",
+  "packageType": "mods",
+  "websiteURL": "https://notebooklm.google.com/",
+  "main": "inject.js",
+  "keys": [
+    "Left", "Up", "Right", "Down", "Enter", "Return"
+  ],
+  "author": "Cybersecurity Student",
+  "version": "1.0.0"
+}
