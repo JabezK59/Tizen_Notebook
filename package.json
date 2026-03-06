@@ -1,16 +1,12 @@
 {
   "name": "notebook-tv-mod",
   "appName": "NotebookLM",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packageType": "mods",
   "websiteURL": "https://notebooklm.google.com/",
   "main": "inject.js",
+  "evaluateScriptOnDocumentStart": true,
   "keys": [
-    "Up",
-    "Down",
-    "Left",
-    "Right",
-    "Enter",
-    "Return"
+    "Up", "Down", "Left", "Right", "Enter", "Return"
   ]
 }
